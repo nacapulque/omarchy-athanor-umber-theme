@@ -1,0 +1,15 @@
+[lock]
+# An opaque card over the blurred plate, ruled in amber and red when the
+# word is wrong. The shell draws only border-active and border-error.
+background       = "#16120e"
+background-alpha = 1.0
+text             = "#e3d6b8"
+placeholder      = "#97876e"
+text-error       = "#dc684a"
+border           = "#97876e"
+border-active    = "#d49a3a"
+border-error     = "#dc684a"
+border-alpha     = 1.0
+border-width     = 2
+selection        = "#d49a3a"
+selection-alpha  = 0.45

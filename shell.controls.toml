@@ -1,0 +1,29 @@
+[controls]
+normal-color        = "#e3d6b8"
+normal-fill-alpha   = 0.04
+normal-border       = "#e3d6b8"
+normal-border-width = 1
+normal-border-alpha = 0.4
+
+hover-cursor-color        = "#e3d6b8"
+hover-cursor-fill-alpha   = 0.08
+hover-cursor-border       = "#e3d6b8"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.4
+
+# Keyboard focus gets the amber rule so it never hides behind hover.
+focus-color        = "#e3d6b8"
+focus-fill-alpha   = 0.08
+focus-border       = "#d49a3a"
+focus-border-width = 1
+focus-border-alpha = 1.0
+
+# Chosen items read in inverse, ink on paper.
+selected-color        = "#e3d6b8"
+selected-fill-alpha   = 0.18
+selected-border       = "#d49a3a"
+selected-border-width = 1
+selected-border-alpha = 1.0
+
+pressed-fill-alpha   = 0.22
+selection-fill-alpha = 0.35

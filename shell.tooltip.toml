@@ -1,0 +1,7 @@
+[tooltip]
+# Tooltips speak in the status line's colors.
+background       = "#0d0b08"
+background-alpha = 1.0
+text             = "#cfc1a3"
+border           = "#3a3126"
+border-alpha     = 1.0
