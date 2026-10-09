@@ -1,0 +1,14 @@
+[menu]
+background                = "#16120e"
+background-alpha          = 1.0
+text                      = "#e3d6b8"
+border                    = "#d49a3a"
+border-alpha              = 1.0
+border-width              = 2
+scrim                     = "#16120e"
+scrim-alpha               = 0.6
+selected-background       = "#e3d6b8"
+selected-background-alpha = 1.0
+selected-text             = "#16120e"
+selected-border           = "#e3d6b8"
+selected-border-alpha     = 0.0
